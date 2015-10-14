@@ -10,7 +10,8 @@ namespace Snake
     {
         static void Main()
         {
-
+            var p = new Point{Img = '#', X = 2, Y = 5};
+            p.Draw();
         }
     }
 }
