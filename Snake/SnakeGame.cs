@@ -8,8 +8,9 @@ namespace Snake
 {
     class SnakeGame
     {
-        static void Main(string[] args)
+        static void Main()
         {
+
         }
     }
 }
