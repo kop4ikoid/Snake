@@ -13,7 +13,6 @@ namespace Snake
         {
             Draw(0,5,'*');
             Draw(1,6,'#');
-
             
         }
 
